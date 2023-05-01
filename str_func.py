@@ -1,5 +1,5 @@
 def str_funct(string):
-    """функция переводит строку в верхний регистр"""
+    """Функция переводит строку в верхний регистр"""
     return string.upper()
 
 def str_title(string):
